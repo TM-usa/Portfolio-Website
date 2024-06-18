@@ -1,0 +1,67 @@
+[
+    {
+       "role":"Test Automation Engineer",
+       "organisation":"Ithuba via QoT",
+       "startDate":"May, 2023",
+       "endDate":"Present",
+       "experiences":
+       [ 
+         "Engage with product manager for work allocations during daily standups.",
+         "Create Test Requirements, Test Cases and execute these on TestRail Test Management tool.",
+         "Create Test Plans for testing efforts, risks, and quality control.",
+         "Create Automation Scripts using Cucumber BDD, Serenity BDD and Selenium to execute automatable tests For Web, Mobile and APIs.",
+         "Use Postman to test services/end points manually for client’s request.",
+         "Adhere to high-quality software testing principles while delivering solutions on time in an agile environment."
+       ],
+       "imageSrc":"history/ithubab.png"
+       
+    },
+    {
+        "role":"Jnr Test Automation Engineer",
+        "organisation":"QoT Solutions",
+        "startDate":"Feb, 2023",
+        "endDate":"Present",
+        "experiences":
+        [
+            "Testing Software's in Agile environment.", "Test Automation using Selenium & Java.",
+            "API Testing using Rest Assured, Karate & Postman","Performance Testing using JMeter"
+        ],
+        "imageSrc":"history/qott.png"
+        
+     },
+     {
+        "role":"Jnr Software Engineer",
+        "organisation":"Samlorynx, Freelancing",
+        "startDate":"Sept, 2022",
+        "endDate":"May, 2023",
+        "experiences":
+        [
+            "Collaborate with cross-functional teams to gather and analyze requirements.", 
+            "Design, develop, and maintain microservices using C# and Flutter.",
+            "Troubleshoot, debug, and optimize code to resolve issues and improve overall system performance.",
+            "Collaborate with front-end developers to integrate user-facing elements with server-side logic.",
+            "Participate in code reviews to maintain code quality and ensure best practices.",
+            "Contribute to the design and architecture of scalable and maintainable software solutions"
+        ],
+        "imageSrc":"history/sam.png"
+        
+     },
+     {
+        "role":"Jnr Data Scirntist",
+        "organisation":"Nielsen",
+        "startDate":"March, 2022",
+        "endDate":"jay, 2023",
+        "experiences":
+        [
+            "Showcased leadership, communication and problem-solving skills in a collaborative environment using Zoom, and Slack.", 
+            "Participate actively in daily meetings and project planning meetings.",
+            "organise data sets and presenting it in a visually pleasing way.",
+            "System analysis and design using Python.",
+            "Data Capturing and Validation",
+            "Radio Data Quality Control"
+        ],
+        "imageSrc":"history/nielsen.png"
+        
+     }
+
+]

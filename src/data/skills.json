@@ -1,0 +1,39 @@
+[
+    {
+      "title":"HTML",
+      "imageScr":"skills/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageScr":"skills/css.png"
+      },
+      {
+        "title":"React",
+        "imageScr":"skills/react.png"
+      },
+      {
+        "title":"Node",
+        "imageScr":"skills/node.png"
+      },
+      {
+        "title":"Node",
+        "imageScr":"skills/node.png"
+      }
+      ,
+      {
+        "title":"Node",
+        "imageScr":"skills/node.png"
+      }
+      ,
+      {
+        "title":"Node",
+        "imageScr":"skills/node.png"
+      }
+      ,
+      {
+        "title":"Node",
+        "imageScr":"skills/node.png"
+      }
+      
+    ]
+    
